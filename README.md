@@ -1,4 +1,4 @@
-# ml-project
+# Machine Learning Project
 You can read the project instructions that I followed below:
 Στόχος της εργασίας είναι η υλοποίηση και εφαρμογή μεθόδων που παρουσιάστηκαν
 στις διαλέξεις και στα φροντιστήρια σε ένα classification task της επιλογής σας. Το
