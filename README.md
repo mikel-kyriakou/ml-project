@@ -1,4 +1,5 @@
 # Machine Learning Project
+This is the dataset that I have used: https://www.kaggle.com/datasets/himanshunakrani/iris-dataset
 You can read the project instructions that I followed below:
 Στόχος της εργασίας είναι η υλοποίηση και εφαρμογή μεθόδων που παρουσιάστηκαν
 στις διαλέξεις και στα φροντιστήρια σε ένα classification task της επιλογής σας. Το
